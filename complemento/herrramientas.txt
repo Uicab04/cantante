@@ -1,0 +1,3 @@
+        
+        resultads
+        <h5 class="card-tittle">Resultados (<?php echo $numero; ?>)</h5>
